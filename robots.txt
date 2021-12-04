@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://timbojimbo.com/sitemap.xml
