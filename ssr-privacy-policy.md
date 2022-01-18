@@ -19,19 +19,19 @@ All communications between the game and its servers happen over HTTPs.
 Some users will have access to alpha/beta builds through Testflight. This requires us to provide Apple with the user's Name and Email address which is collected through a form subject to user consent. This process is subject to Testflight’s Privacy Policy.
 
 
-## 3. Google Play Closed Testing
+## 4. Google Play Closed Testing
 Some users will have access to alpha/beta builds through Testflight. This requires us to provide Google with the user's Email address which is collected through a form subject to user consent. This process is subject to Google Play’s Privacy Policy.
 
-## 4A. Apple
+## 5A. Apple
 SSR for iOS is distributed through the App Store and therefore the use of SSR is also subject to Apple’s Privacy Policy.
 
-## 4B. Google
+## 5B. Google
 SSR for Android is distributed through Google Play and therefore the use of SSR is also subject to Google Play’s Privacy Policy.
 
-## 4C. Unity
+## 5C. Unity
 SSR is built using the Unity game engine and makes use of Unity Analytics and In App Purchasing SDK’s and therefore the use of SSR is also subject to Unity’s Privacy Policy.
 
-## 5. Sharing Data
+## 6. Sharing Data
 When Law Enforcement Agencies legally request for customer data, we are liable to provide such information which may include:
 
 - All email correspondences
@@ -40,10 +40,10 @@ When Law Enforcement Agencies legally request for customer data, we are liable t
 
 Since we do not collect any personally identifying information from you (with the exception of any services you’ve linked to your SSR Account), our scope of identifying a customer and therefore being able to share such information is very limited.
 
-## 6. Contact
+## 7. Contact
 You can contact us regarding questions or concerns over this policy at: hello@timbojimbo.com
 
-## 7. Changes to this policy
+## 8. Changes to this policy
 We reserve the right to update our privacy policy without notifying our users and customers.
 
 
